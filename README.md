@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there，I'm RingoSix 👋
+Hi~
 ### Languages and Tools:
 
 <p>  
