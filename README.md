@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there，I'm RingoSix 👋
+在校大学生一枚~
 ### Languages and Tools:
 
 <p>  
