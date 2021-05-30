@@ -12,7 +12,7 @@
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/vite/vite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"></code>
