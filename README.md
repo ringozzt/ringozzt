@@ -1,4 +1,4 @@
-### Hi there，I'm RingoSix 👋
+### Hi there，I'm Ringo👋
 Hi~
 ### Languages and Tools:
 
