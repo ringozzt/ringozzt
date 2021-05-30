@@ -1,4 +1,4 @@
-### Hi there，I'm RingoSix 👋
+### Hi there，I'm Ringo👋
 在校大学生一枚~
 ### Languages and Tools:
 
