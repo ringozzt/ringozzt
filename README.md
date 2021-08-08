@@ -1,4 +1,4 @@
-### Hi there，I'm Ringo👋
+### Hi，I'm Ringo👋
 ### Front-end Engineer
 ### Languages and Tools:
 
@@ -33,5 +33,5 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/coreos/coreos-ar21.svg"></code>
 </p>
 
-### My Github State
+### 2021 Github State
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ringozzt&&hide_title=true&hide_border=false&show_icons=true&theme=dracula&locale=cn&title_color=007ACC&text_color=007ACC&bg_color=EEE" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&hide_title=true&hide_border=false&layout=compact&text_color=555&theme=dracula&bg_color=EEE&locale=cn" />
