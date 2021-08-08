@@ -34,4 +34,4 @@
 </p>
 
 ### My Github State
-[![ringozzt's github stats](https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&theme=synthwave&locale=cn&title_color=393939&text_color=525252&bg_color=FFF,525252)](https://github.com/ringozzt)
+[![ringozzt's github stats](https://github-readme-stats.vercel.app/api?username=ringozzt&&hide_title=true&hide_border=true&show_icons=true&theme=synthwave&locale=cn&title_color=393939&text_color=525252&bg_color=FFF,525252)](https://github.com/ringozzt)
