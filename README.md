@@ -34,5 +34,5 @@
 </p>
 
 ### My Github State
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ringozzt&&hide_title=true&hide_border=false&show_icons=true&theme=synthwave&locale=cn&title_color=007ACC&text_color=007ACC&bg_color=007ACC,007ACC" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&hide_title=true&hide_border=false&layout=compact&bg_color=007ACC,007ACC&theme=synthwave&locale=cn" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ringozzt&&hide_title=true&hide_border=false&show_icons=true&theme=dracula&locale=cn&title_color=007ACC&text_color=007ACC&bg_color=007ACC,007ACC" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&hide_title=true&hide_border=false&layout=compact&bg_color=007ACC,007ACC&theme=dracula&locale=cn" />
 
