@@ -1,7 +1,7 @@
 ### Hi，I'm Ringo👋
 ### Front-end Engineer
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 ### Languages and Tools:
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
 <p>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
