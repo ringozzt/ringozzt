@@ -31,4 +31,4 @@
 </p>
 
 ### 2021 Github State
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ringozzt&&hide_title=true&hide_border=false&show_icons=true" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&hide_title=true&hide_border=false" />
+![Ringo's github stats](https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&hide_border=false)
