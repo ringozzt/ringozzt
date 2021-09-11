@@ -32,3 +32,4 @@
 
 ### 2021 Github State
 ![Ringo's github stats](https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&hide_border=false)
+![Ringo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&show_icons=true&hide_border=false)
