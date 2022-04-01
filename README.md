@@ -1,5 +1,6 @@
 ### Hi，I'm Ringo👋
 ### Front-end Engineer
+### Blog: [noob BLOG](https://ringozzt.github.io/ringo-blog)
 ### Languages and Tools:
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
 
