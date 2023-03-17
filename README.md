@@ -1,5 +1,4 @@
 # Hello
----
 ### I am Zhengte Zhang, currently studying at Hangzhou Dianzi University, majoring in Software engineering.
 
 ### Languages and Tools:
