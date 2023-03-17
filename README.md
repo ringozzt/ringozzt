@@ -1,4 +1,6 @@
-### a Front-end Engineer
+# Hello
+---
+### Hi there, I'm Ringo 👋
 
 ### Languages and Tools:
 
