@@ -1,9 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="72" viewBox="0 0 520 72" role="img" aria-label="ringozzt">
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="88" viewBox="0 0 560 88" role="img" aria-label="ringozzt">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1565C0"/>
-      <stop offset="100%" stop-color="#2979FF"/>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1A237E"/>
+      <stop offset="45%" stop-color="#0D47A1"/>
+      <stop offset="100%" stop-color="#01579B"/>
     </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#283593" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#5C6BC0" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#283593" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2.5" flood-color="#0A1628" flood-opacity="0.45"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#0A1628" flood-opacity="0.22"/>
+    </filter>
+    <filter id="innerDepth" x="-10%" y="-10%" width="120%" height="120%">
+      <feOffset dy="1" result="off"/>
+      <feGaussianBlur in="off" stdDeviation="0.6" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
   </defs>
-  <text x="260" y="48" text-anchor="middle" font-family="ui-sans-serif, SF Pro Display, Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="url(#g)" letter-spacing="-0.5">ringozzt</text>
+  <!-- depth stack: soft rear glow -->
+  <text x="280" y="54" text-anchor="middle"
+        font-family="ui-sans-serif, SF Pro Display, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="750" letter-spacing="-0.8"
+        fill="#0A1628" opacity="0.18"
+        transform="translate(0, 3)">ringozzt</text>
+  <!-- hard offset shadow for relief -->
+  <text x="280" y="54" text-anchor="middle"
+        font-family="ui-sans-serif, SF Pro Display, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="750" letter-spacing="-0.8"
+        fill="#001F3F" opacity="0.35"
+        transform="translate(1.2, 2)">ringozzt</text>
+  <!-- main face -->
+  <text x="280" y="54" text-anchor="middle"
+        font-family="ui-sans-serif, SF Pro Display, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="750" letter-spacing="-0.8"
+        fill="url(#face)" filter="url(#softShadow)">ringozzt</text>
+  <!-- subtle top sheen for dimension -->
+  <text x="280" y="54" text-anchor="middle"
+        font-family="ui-sans-serif, SF Pro Display, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="46" font-weight="750" letter-spacing="-0.8"
+        fill="url(#sheen)" opacity="0.85">ringozzt</text>
 </svg>
