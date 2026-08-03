@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="110" viewBox="0 0 440 110" role="img" aria-label="Ringo">
+  <defs>
+    <!-- can yellow body -->
+    <linearGradient id="can" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFE34D"/>
+      <stop offset="48%" stop-color="#FFCC00"/>
+      <stop offset="100%" stop-color="#E6A700"/>
+    </linearGradient>
+    <!-- edge rim -->
+    <linearGradient id="rim" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFF3A8"/>
+      <stop offset="100%" stop-color="#C98A00"/>
+    </linearGradient>
+    <!-- deep blue letter face -->
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A2A6E"/>
+      <stop offset="55%" stop-color="#001A4D"/>
+      <stop offset="100%" stop-color="#000E2E"/>
+    </linearGradient>
+    <filter id="plateShadow" x="-15%" y="-20%" width="130%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="4" flood-color="#001433" flood-opacity="0.28"/>
+    </filter>
+    <filter id="letterDepth" x="-10%" y="-20%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="1.5" stdDeviation="0.6" flood-color="#7A5A00" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <!-- gold plate (can body) -->
+  <rect x="28" y="18" width="384" height="74" rx="14" fill="url(#rim)"/>
+  <rect x="32" y="22" width="376" height="66" rx="12" fill="url(#can)" filter="url(#plateShadow)"/>
+  <!-- subtle top highlight band -->
+  <rect x="40" y="26" width="360" height="18" rx="8" fill="#FFFFFF" opacity="0.18"/>
+
+  <!-- deep navy wordmark -->
+  <text x="220" y="68" text-anchor="middle"
+        font-family="ui-sans-serif, SF Pro Display, Avenir Next Condensed, Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="48" font-weight="800" letter-spacing="3"
+        fill="url(#ink)" filter="url(#letterDepth)">Ringo</text>
+</svg>

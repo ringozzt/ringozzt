@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="./assets/title.svg" alt="Ringo" />
+  <img src="./assets/title-ringo.svg?v=3" alt="Ringo" />
   <br/>
-  <img src="./assets/tagline.svg" alt="Build systems that think with people — not just for them." />
+  <img src="./assets/tagline.svg?v=3" alt="Build systems that think with people — not just for them." />
   <br/>
-  <img src="./assets/meta.svg" alt="Engineer · Hangzhou · TypeScript · Go · Agent runtimes · Product craft" />
+  <img src="./assets/meta.svg?v=3" alt="Engineer · Hangzhou · TypeScript · Go · Agent runtimes · Product craft" />
   <br/><br/>
   <a href="https://github.com/ringozzt"><img src="https://img.shields.io/github/followers/ringozzt?style=flat&label=Follow&logo=github&color=1565C0&logoColor=FFFFFF" alt="Follow" /></a>
   <img src="https://komarev.com/ghpvc/?username=ringozzt&style=flat&color=1E88E5&label=profile+views" alt="profile views" />
@@ -18,17 +18,17 @@ Most of my work lives in three currents:
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/label-agent.svg" width="280" alt="Agent systems" />
+      <img src="./assets/label-agent.svg?v=3" width="280" alt="Agent systems" />
       <br/><br/>
       <p align="left">Local-first agent runtimes, multi-agent collaboration, tool-use loops, and the infrastructure that makes long-running AI work trustworthy.</p>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/label-interface.svg" width="280" alt="Human ↔ agent interfaces" />
+      <img src="./assets/label-interface.svg?v=3" width="280" alt="Human ↔ agent interfaces" />
       <br/><br/>
       <p align="left">Native desktop utilities, browser feedback channels, and UX that turns vague intent into precise machine action — without a wall of prompts.</p>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./assets/label-product.svg" width="280" alt="Product engineering at scale" />
+      <img src="./assets/label-product.svg?v=3" width="280" alt="Product engineering at scale" />
       <br/><br/>
       <p align="left">Full-stack delivery across TypeScript and Go: monorepos, BFF/gateway patterns, observability, and shipping under real production constraints.</p>
     </td>
@@ -39,7 +39,7 @@ Most of my work lives in three currents:
 
 ---
 
-<img src="./assets/h-selected.svg" alt="Selected public work" />
+<img src="./assets/h-selected.svg?v=3" alt="Selected public work" />
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ From recent local craft — without naming internal products:
 
 ---
 
-<img src="./assets/h-stack.svg" alt="Stack" />
+<img src="./assets/h-stack.svg?v=3" alt="Stack" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-1E88E5?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
@@ -105,7 +105,7 @@ From recent local craft — without naming internal products:
 
 ---
 
-<img src="./assets/h-currently.svg" alt="Currently" />
+<img src="./assets/h-currently.svg?v=3" alt="Currently" />
 
 - Designing **agent collaboration** that feels like a team, not a chat box
 - Collecting sharp tools at the edge of **AI × systems × craft**
