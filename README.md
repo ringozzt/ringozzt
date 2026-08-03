@@ -5,8 +5,8 @@
   <br/>
   <img src="./assets/meta.svg" alt="Engineer · Hangzhou · TypeScript · Go · Agent runtimes · Product craft" />
   <br/><br/>
-  <a href="https://github.com/ringozzt"><img src="https://img.shields.io/github/followers/ringozzt?style=flat&label=Follow&logo=github&color=003153&logoColor=D6E4F0" alt="Follow" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ringozzt&style=flat&color=003153&label=profile+views" alt="profile views" />
+  <a href="https://github.com/ringozzt"><img src="https://img.shields.io/github/followers/ringozzt?style=flat&label=Follow&logo=github&color=1565C0&logoColor=FFFFFF" alt="Follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ringozzt&style=flat&color=1E88E5&label=profile+views" alt="profile views" />
 </div>
 
 ---
@@ -88,33 +88,20 @@ From recent local craft — without naming internal products:
 <img src="./assets/h-stack.svg" alt="Stack" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-003153?style=for-the-badge&logo=typescript&logoColor=D6E4F0" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-003153?style=for-the-badge&logo=go&logoColor=D6E4F0" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-003153?style=for-the-badge&logo=nodedotjs&logoColor=D6E4F0" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-003153?style=for-the-badge&logo=react&logoColor=D6E4F0" alt="React" />
-  <img src="https://img.shields.io/badge/Swift-003153?style=for-the-badge&logo=swift&logoColor=D6E4F0" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-003153?style=for-the-badge&logo=python&logoColor=D6E4F0" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-1E88E5?style=for-the-badge&logo=typescript&logoColor=FFFFFF" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-1E88E5?style=for-the-badge&logo=go&logoColor=FFFFFF" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-1E88E5?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-1E88E5?style=for-the-badge&logo=react&logoColor=FFFFFF" alt="React" />
+  <img src="https://img.shields.io/badge/Swift-1E88E5?style=for-the-badge&logo=swift&logoColor=FFFFFF" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-1E88E5?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-0B1D36?style=for-the-badge&logo=anthropic&logoColor=D6E4F0" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-0B1D36?style=for-the-badge&logo=openai&logoColor=D6E4F0" alt="Codex" />
-  <img src="https://img.shields.io/badge/Agents-1B4F72?style=for-the-badge" alt="Agents" />
-  <img src="https://img.shields.io/badge/macOS-0B1D36?style=for-the-badge&logo=apple&logoColor=D6E4F0" alt="macOS" />
+  <img src="https://img.shields.io/badge/Claude_Code-1565C0?style=for-the-badge&logo=anthropic&logoColor=FFFFFF" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-1565C0?style=for-the-badge&logo=openai&logoColor=FFFFFF" alt="Codex" />
+  <img src="https://img.shields.io/badge/Agents-2979FF?style=for-the-badge" alt="Agents" />
+  <img src="https://img.shields.io/badge/macOS-1565C0?style=for-the-badge&logo=apple&logoColor=FFFFFF" alt="macOS" />
 </p>
-
----
-
-<img src="./assets/h-snapshot.svg" alt="Snapshot" />
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1D36&title_color=D6E4F0&icon_color=5B9BD5&text_color=A9C0D4&ring_color=3D7EA6" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&layout=compact&hide_border=true&bg_color=0B1D36&title_color=D6E4F0&text_color=A9C0D4" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringozzt&bg_color=0B1D36&color=5B9BD5&line=3D7EA6&point=D6E4F0&area=true&hide_border=true&area_color=1B4F72" alt="Contribution graph" width="100%" />
-</div>
 
 ---
 
@@ -125,10 +112,6 @@ From recent local craft — without naming internal products:
 - Open to thoughtful collaboration on open-source agent infrastructure and developer experience
 
 <div align="center">
-
-<br/>
-
-<img src="./assets/meta.svg" alt="Hangzhou craft line" />
 
 <br/>
 
