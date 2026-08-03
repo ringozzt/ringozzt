@@ -17,20 +17,20 @@ Most of my work lives in three currents:
 
 <table>
   <tr>
-    <td width="34%" valign="top">
-      <img src="./assets/label-agent.svg" alt="Agent systems" />
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/label-agent.svg" width="280" alt="Agent systems" />
       <br/><br/>
-      Local-first agent runtimes, multi-agent collaboration, tool-use loops, and the infrastructure that makes long-running AI work trustworthy.
+      <p align="left">Local-first agent runtimes, multi-agent collaboration, tool-use loops, and the infrastructure that makes long-running AI work trustworthy.</p>
     </td>
-    <td width="33%" valign="top">
-      <img src="./assets/label-interface.svg" alt="Human ↔ agent interfaces" />
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/label-interface.svg" width="280" alt="Human ↔ agent interfaces" />
       <br/><br/>
-      Native desktop utilities, browser feedback channels, and UX that turns vague intent into precise machine action — without a wall of prompts.
+      <p align="left">Native desktop utilities, browser feedback channels, and UX that turns vague intent into precise machine action — without a wall of prompts.</p>
     </td>
-    <td width="33%" valign="top">
-      <img src="./assets/label-product.svg" alt="Product engineering at scale" />
+    <td width="33%" valign="top" align="center">
+      <img src="./assets/label-product.svg" width="280" alt="Product engineering at scale" />
       <br/><br/>
-      Full-stack delivery across TypeScript and Go: monorepos, BFF/gateway patterns, observability, and shipping under real production constraints.
+      <p align="left">Full-stack delivery across TypeScript and Go: monorepos, BFF/gateway patterns, observability, and shipping under real production constraints.</p>
     </td>
   </tr>
 </table>
