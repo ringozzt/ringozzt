@@ -6,8 +6,8 @@
 
 Engineer · Hangzhou · TypeScript · Go · Agent runtimes · Product craft
 
-[![GitHub followers](https://img.shields.io/github/followers/ringozzt?style=flat&label=Follow&logo=github&color=24292f)](https://github.com/ringozzt)
-[![Profile views](https://komarev.com/ghpvc/?username=ringozzt&style=flat&color=24292f&label=profile+views)](https://github.com/ringozzt)
+[![GitHub followers](https://img.shields.io/github/followers/ringozzt?style=flat&label=Follow&logo=github&color=0B1D36&logoColor=D6E4F0)](https://github.com/ringozzt)
+[![Profile views](https://komarev.com/ghpvc/?username=ringozzt&style=flat&color=0B1D36&label=profile+views)](https://github.com/ringozzt)
 
 </div>
 
@@ -76,32 +76,33 @@ From recent local craft — without naming internal products:
 ### Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0B1D36?style=for-the-badge&logo=typescript&logoColor=5B9BD5" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-0B1D36?style=for-the-badge&logo=go&logoColor=5B9BD5" alt="Go" />
+  <img src="https://img.shields.io/badge/Node.js-0B1D36?style=for-the-badge&logo=nodedotjs&logoColor=5B9BD5" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-0B1D36?style=for-the-badge&logo=react&logoColor=5B9BD5" alt="React" />
+  <img src="https://img.shields.io/badge/Swift-0B1D36?style=for-the-badge&logo=swift&logoColor=5B9BD5" alt="Swift" />
+  <img src="https://img.shields.io/badge/Python-0B1D36?style=for-the-badge&logo=python&logoColor=5B9BD5" alt="Python" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/Agents-6E56CF?style=for-the-badge" alt="Agents" />
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Claude_Code-003153?style=for-the-badge&logo=anthropic&logoColor=D6E4F0" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-003153?style=for-the-badge&logo=openai&logoColor=D6E4F0" alt="Codex" />
+  <img src="https://img.shields.io/badge/Agents-1B4F72?style=for-the-badge&logoColor=D6E4F0" alt="Agents" />
+  <img src="https://img.shields.io/badge/macOS-0B1D36?style=for-the-badge&logo=apple&logoColor=D6E4F0" alt="macOS" />
 </p>
 
 ---
 
 ### Snapshot
 
+<!-- Palette: Prussian / navy — bg #0B1D36 · accent #5B9BD5 · deep #003153 · text #D6E4F0 -->
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=c9d1d9" alt="Top languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ringozzt&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1D36&title_color=D6E4F0&icon_color=5B9BD5&text_color=A9C0D4&ring_color=3D7EA6" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringozzt&layout=compact&hide_border=true&bg_color=0B1D36&title_color=D6E4F0&text_color=A9C0D4" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringozzt&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=true&area_color=58a6ff" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringozzt&bg_color=0B1D36&color=5B9BD5&line=3D7EA6&point=D6E4F0&area=true&hide_border=true&area_color=1B4F72" alt="Contribution graph" width="100%" />
 </div>
 
 ---
