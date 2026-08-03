@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/title.svg" alt="ringozzt" />
+  <img src="./assets/title.svg" alt="Ringo" />
   <br/>
   <img src="./assets/tagline.svg" alt="Build systems that think with people — not just for them." />
   <br/>
